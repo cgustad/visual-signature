@@ -11,7 +11,8 @@ dependencies = [
     "dash (>=3.3.0,<4.0.0)",
     "roughpy (>=0.2.0,<0.3.0)",
     "pandas (>=2.3.3,<3.0.0)",
-    "scipy (>=1.16.3,<2.0.0)"
+    "scipy (>=1.16.3,<2.0.0)",
+    "dash-bootstrap-components (>=2.0.4,<3.0.0)"
 ]
 
 
